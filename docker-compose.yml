@@ -1,0 +1,12 @@
+version: '3.1'
+
+services:
+  dmv:
+    container_name: dmv
+    # build: ./
+    # command: docsify serve /docs
+    image: binacslee/dmv:latest
+    volumes:
+      - ./:/docs
+    ports:
+      - 3000:3000
