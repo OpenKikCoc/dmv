@@ -41,7 +41,7 @@
 > 能用自行车道，仅当 200 feet before making a turn
 
 **24. This sign means:【一个黄色的圆圈 上面什么都没有】illinois-railroad warning**
-- Railroad ahead.
+- <span style="color:#16a34a">✅ Railroad ahead.</span>
 - No passing zone.
 - School zone.
 
@@ -216,7 +216,8 @@
 - <span style="color:#16a34a">✅ Solid red lights, flashing red lights, and blacked out traffic signals.</span>
 - Solid red lights, red arrows, and flashing yellow lights.
 - Solid red lights, flashing red lights, and yellow lights.
-- You must stop at a solid or flashing red light, or at a signal light that is blacked out (not working). A solid yellow light means that the signal is about to turn red and you must stop if you can do so safely; otherwise, proceed cautiously. A flashing yellow light means that you should proceed with caution, but you do not need to stop.
+
+> You must stop at a solid or flashing red light, or at a signal light that is blacked out (not working). A solid yellow light means that the signal is about to turn red and you must stop if you can do so safely; otherwise, proceed cautiously. A flashing yellow light means that you should proceed with caution, but you do not need to stop.
 
 **21. When driving at night on a dimly lit street, you should**
 - <span style="color:#16a34a">✅ Drive slowly enough that you can stop within the area illuminated by your headlights.</span>
@@ -224,7 +225,7 @@
 - Keep the instrument panel lights bright to be more visible to other drivers.
 
 **23. To avoid hydroplaning while driving in rainy conditions, you should**
-- Drive at a speed appropriate for ideal conditions.			N 这里理解意思有问题，[以适合理想路况的速度行驶]意思其实是正常速度。。。
+- <span style="color:#e11d48">✖ Drive at a speed appropriate for ideal conditions.</span> 这里理解意思有问题，[以适合理想路况的速度行驶]意思其实是正常速度。。。
 - Apply your brakes as soon as your car starts to skid.
 - <span style="color:#16a34a">✅ Slow down.</span>
 
@@ -232,7 +233,8 @@
 - During a heavy downpour.
 - <span style="color:#e11d48">✖ After it has been raining for awhile.</span>
 - <span style="color:#16a34a">✅ During the first rain after a dry spell.</span>
-- Many roads are most slippery during the first rain after a dry spell because oil and dust on the road have not previously been washed away.
+
+> Many roads are most slippery during the first rain after a dry spell because oil and dust on the road have not previously been washed away.
 
 **31. When turning left from a two-way street onto a one-way street, you should:	【题意理解】**
 - <span style="color:#e11d48">✖ Turn into any lane.</span>
@@ -353,8 +355,8 @@
 > It can be hard to judge the speed of oncoming vehicles. They do not always seem to be coming as fast as they really are. Always be sure you can safely change lanes when passing on a two-lane street. If you are not sure of an oncoming vehicle's speed, wait to pass until the oncoming vehicle has passed and you are sure there is enough space for you to change lanes safely. 判断迎面驶来的车辆速度可能很困难。它们看起来的速度并不总是像实际速度那么快。在双车道道路上超车时，务必确保能够安全地变换车道。如果您不确定迎面驶来的车辆的速度，请等待其驶过，并确认有足够的空间安全变换车道后再进行超车。
 
 **2. If you pass a school bus that is stopped with its red lights flashing, you will:【注意罚款】**
-- <span style="color:#16a34a">✅ Be fined up to $1,000.</span>
-- Be fined up to $100.
+- <span style="color:#16a34a">✅ Be fined up to \$1,000.</span>
+- Be fined up to \$100.
 - Face no legal consequences.
 
 **14. When stopped at a red traffic light with a green arrow, you may proceed in the direction of the arrow if you:【容易困惑的灯】**
@@ -372,13 +374,17 @@
 > When making a left turn, you should always begin signaling about 100 feet before the turn. You should keep your front wheels aiming straight ahead until it is safe to start your turn. This ensures that you will not be pushed into oncoming traffic if another vehicle hits you from behind. 左转时，应在转弯前约 100 英尺（约 30 米）处开始打转向灯。在确认安全之前，应保持前轮直视前方。这样可以确保在后方车辆追尾时，您不会被推入对向车道。
 
 **16. 黄色指向右方的黑箭头**
-- Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign tells drivers to slow down and prepare for an abrupt change in direction at an extreme angle. 警告标志通常是黄色底黑色条纹，用于提醒您前方路况。此标志提示驾驶员减速并准备应对急转弯。
+
+> Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign tells drivers to slow down and prepare for an abrupt change in direction at an extreme angle. 警告标志通常是黄色底黑色条纹，用于提醒您前方路况。此标志提示驾驶员减速并准备应对急转弯。
 
 **17. You hit a parked vehicle and can't find the owner. What must you do?【发生碰撞 无人在 如何处理】**
 - Call your insurance company when you get home.
 - Wait for the owner to return.
 - <span style="color:#16a34a">✅ Leave a note with your name and address on the parked vehicle.</span>
+
 > If you hit a parked vehicle or other property, you must leave a note with your name, phone number, and address securely attached to the vehicle or property that you hit. 如果您撞到停放的车辆或其他财产，您必须留下一张纸条，上面写有您的姓名、电话号码和地址，并将其牢固地附在您撞到的车辆或财产上。
+> 
+> 【但是也要汇报，只是汇报对象不是 dmv】
 
 **25. With a Class C driver license, a person may drive:【没见过 不知道哪来的题】**
 - <span style="color:#16a34a">✅ A three-axle vehicle if the Gross Vehicle Weight is less than 6,000 pounds.</span>
@@ -401,7 +407,7 @@
 
 **34. When parking your vehicle parallel to the curb on a level street**
 - Your front wheels must be turned toward the street.
-- Your wheels must be within 18 inches of the curb.			Y 【记住这个距离】
+- <span style="color:#16a34a">✅ Your wheels must be within 18 inches of the curb.</span>   【记住这个距离】
 - One of your rear wheels must touch the curb.
 
 ---
@@ -508,7 +514,7 @@
 
 **20. While driving on a roadway with a single broken white centerline:【白色虚线 超车，可以从 centerline 超车】**
 - You must stay within your lane.
-- You may cross the centerline to change lanes.					Y 您可以越过中心线变换车道。
+- <span style="color:#16a34a">✅ You may cross the centerline to change lanes.</span> 您可以越过中心线变换车道。
 - <span style="color:#e11d48">✖ You may change lanes only from the left lane.</span>
 
 > White lines between lanes indicate that the lanes are traveling in the same direction. Broken white line markings indicate that it is legal to pass another vehicle when safe. 车道间的白色实线表示各车道行驶方向相同。虚线表示在安全的情况下可以合法超车。
@@ -517,14 +523,14 @@
 
 **23. Before switching on the ignition 在打开点火开关之前**
 
-**24. To prevent tailgating, drivers should follow the: Three-second rule.**
+**24. To prevent tailgating, drivers should follow the: <span style="color:#16a34a">Three-second rule.</span>**
 
 **26. Which of the following factors affect an individual's absorption of alcohol?【没见过 关于酒精吸收 体重】**
 - <span style="color:#16a34a">✅ Weight</span>
 - Height
 - Intelligence
 
-> Factors affecting a person's absorption of alcohol include the person's weight, their biological sex, the amount of food in their digestive tract, and the number of alcoholic beverages they have consumed. The only thing to do to remove alcohol from a person's system is to wait. 影响人体吸收酒精的因素包括体重、性别、消化道内的食物量以及饮酒量。清除体内酒精的唯一方法是等待。
+> Factors affecting a person's absorption of alcohol include the person's weight, their biological sex, the amount of food in their digestive tract, and the number of alcoholic beverages they have consumed. The only thing to do to remove alcohol from a person's system is to wait. 影响人体吸收酒精的因素包括<span style="color:#16a34a">体重、性别、消化道内的食物量以及饮酒量</span>。清除体内酒精的唯一方法是等待。
 
 **28. If there is a deep puddle on the road ahead, you should:【路面有积水 要避开】**
 - Maintain the posted speed to make it through the water.保持限速行驶，顺利通过积水
@@ -603,9 +609,11 @@
 - If another driver makes a mistake, you have time to react.
 - <span style="color:#16a34a">✅ It inflates to protect you from injury in the case of a collision.</span>
 
-**16. Continuous hard braking on ice and snow often: Locks the front wheels of a vehicle, causing a loss of steering.					X**
-
 > Keeping space around your vehicle is important to ensure that you have time to safely react if another driver makes a mistake. For example, extra space around your vehicle may give you time to brake or maneuver out of the way of a vehicle veering into your lane. 保持与车辆周围的安全距离非常重要，这样才能确保您有时间在其他驾驶员犯错时安全应对。例如，额外的安全距离可以让您有时间刹车或避让突然变道的车辆。
+
+**16. Continuous hard braking on ice and snow often: Locks the front wheels of a vehicle, causing a loss of steering.**
+
+> Continuous hard braking on snow and ice can result in the locking of the front brake, causing a loss of steering. To avoid the need for excessive braking, make sure to maintain an appropriate speed for conditions. 在冰雪路面上频繁急刹车会导致前轮抱死，从而造成转向失控。为避免过度刹车，请务必根据路况保持适当的车速。
 
 **24. California's "Basic Speed Law" says you must**
 - <span style="color:#e11d48">✖ Keep your speed close to that of other traffic.</span>
@@ -725,7 +733,7 @@
 - A point against your license.
 - No legal consequences.
 
-> It is illegal to dump or abandon an animal on the highway. Doing so can result in six months of jail time, a fine of up to $1,000, or both. 在公路上遗弃动物是违法的。违者可被判处六个月监禁、最高1000美元罚款，或两者并罚。
+> It is illegal to dump or abandon an animal on the highway. Doing so can result in six months of jail time, a fine of up to \$1,000, or both. 在公路上遗弃动物是违法的。违者可被判处六个月监禁、最高1000美元罚款，或两者并罚。
 
 ---
 
@@ -922,7 +930,7 @@
 
 > When making a left turn, you should always begin signaling about 100 feet before the turn. You should keep your front wheels aiming straight ahead until it is safe to start your turn. This ensures that you will not be pushed into oncoming traffic if another vehicle hits you from behind. 左转时，应在转弯前约 100 英尺（约 30 米）处开始打转向灯。在确认安全之前，应保持前轮直视前方。这样可以确保在后方车辆追尾时，您不会被推入对向车道。
 
-**25. Blue traffic signs offer information on: Mileage information, such as distances to specific locations.**
+**25. Blue traffic signs offer information on: Mileage information (里程信息), such as distances to specific locations.**
 
 ---
 
@@ -945,7 +953,7 @@
 
 > A flashing red light at an intersection means drivers are required to come to a complete stop, yield to traffic and pedestrians, and proceed when the way is clear. The same is true at a stop sign. 十字路口闪烁的红灯表示驾驶员必须完全停车，礼让车辆和行人，并在道路畅通后方可通行。停车标志也同样适用。
 
-**8. The speed limit in any alley is: 15 mph.**
+**8. The speed limit in any alley (胡同) is: 15 mph.**
 
 **12. Make room for cars that are entering the freeway by**
 - Slowing down.
@@ -1002,7 +1010,7 @@
 - Brace yourself.
 - <span style="color:#e11d48">✖ Press your head against the head restraint.</span>
 
-> If your vehicle is hit from the rear while you are in forward motion, your body will be thrown backward. Brace yourself by pressing against the back of your seat and putting your head against the head restraint to prevent whiplash. Maintain a firm grip on the steering wheel and be ready to apply your brakes to avoid being pushed into another vehicle. 如果您的车辆在行驶过程中被后方车辆追尾，您的身体会被甩向后方。请用力按压座椅靠背，并将头部抵住头枕，以防止颈部扭伤。紧握方向盘，并做好刹车准备，避免被推撞到其他车辆上。
+> If your vehicle is hit from the rear while you are in forward motion, your body will be thrown backward. Brace yourself by pressing against the back of your seat and putting your head against the head restraint to prevent whiplash. Maintain a firm grip on the steering wheel and be ready to apply your brakes to avoid being pushed into another vehicle. 如果您的车辆在行驶过程中被后方车辆追尾，您的身体会被甩向后方。请用力按压(->抵住)座椅靠背，并将头部抵住头枕，以防止颈部扭伤。紧握方向盘，并做好刹车准备，避免被推撞到其他车辆上。
 
 **18. If you want to enter the freeway but you don't see a gap in traffic, you should:【注意 知识盲区】**
 - Maintain your speed and force the other drivers to create a gap.
@@ -1011,7 +1019,7 @@
 
 > If you want to enter the freeway but do not see a space for your vehicle in traffic, slow down on the ramp to wait for a gap. Do not drive to the end of the ramp and wait for a gap or you will not have enough room to accelerate to the speed of traffic before entering the roadway. 如果您想驶入高速公路，但发现车流中没有合适的停车位，请在匝道上减速等待空隙。不要开到匝道尽头再等待，否则您将没有足够的空间加速到与车流相同的速度才能驶入主路。
 
-**22. When is it legal for minors to use a cell phone without a hands-free device while driving?**
+**22. When is it legal for minors (未成年人) to use a cell phone without a hands-free device while driving?**
 - When making a call while stopped at the red light
 - <span style="color:#16a34a">✅ When making a call for emergency assistance</span>
 - <span style="color:#e11d48">✖ Never</span>
@@ -1046,7 +1054,7 @@
 > [!NOTE]
 > In inclement weather 在恶劣天气下
 >
-> Steer off the road. 驶离公路。Drive in a low gear. 低速行驶。Steer and brake smoothly. 平稳地转向和刹车。
+> Steer off the road. 驶离公路。Drive in a low gear. 低速(x->低[档])行驶。Steer and brake smoothly. 平稳地转向和刹车。
 >
 >
 
@@ -1067,7 +1075,7 @@
 **3. Two sets of solid double yellow lines that are two or more feet apart**
 - May be crossed to enter or exit a private driveway.
 - <span style="color:#16a34a">✅ May not be crossed for any reason.</span>
-- Should be treated as a separate traffic lane.				X 翻译问题 把两组线之间当成一个车道
+- <span style="color:#e11d48">✖ Should be treated as a separate traffic lane.</span>  翻译问题 把两组线之间当成一个车道
 
 > Two sets of solid double yellow lines spaced two or more feet apart are considered a barrier. You may not drive on or over this barrier, or make a left turn or U-turn across it, except at designated openings. 两组相距两英尺或以上的双黄实线构成障碍物。除指定开口外，您不得驶过或越过此障碍物，也不得左转或掉头。
 
@@ -1087,9 +1095,9 @@
 > 
 > 🚗 ➡️ 左轮在高摩擦力路面、右轮在低摩擦路肩 → 车辆突然“跳”上路 → 横向力过大 → 甩尾 / 翻车
 
-**7. In inclement weather, you should**
+**7. In inclement (恶劣天气) weather, you should**
 - Steer off the road.
-- <span style="color:#e11d48">✖ Drive in a low gear.</span>
+- <span style="color:#e11d48">✖ Drive in a low gear.</span> 低档形式(档位)
 - <span style="color:#16a34a">✅ Steer and brake smoothly.</span>
 
 > When driving during unfavorable weather conditions, avoid slamming on the brakes and making sharp, quick turns. These behaviors will make controlling your vehicle in inclement weather even more difficult. 在恶劣天气条件下驾驶时，应避免猛踩刹车和急转弯。这些行为会使您在恶劣天气下更难控制车辆。
@@ -1119,20 +1127,20 @@
 > 
 > 2️⃣ 报告义务（执法报告）必须尽快报告警方（city police 或 CHP），视区域而定。CVC §20002(a)(2)；without delay
 > 
-> CVC §16000(a)，也就是 “DMV Report of Traffic Accident (SR 1)” 的 保险与 DMV 报告义务，而不是警察报告义务。DMV SR 1 Report (CVC §16000) 若损失超过 $1000、或有伤亡🏢 DMV 10 天内
+> CVC §16000(a)，也就是 “DMV Report of Traffic Accident (SR 1)” 的 保险与 DMV 报告义务，而不是警察报告义务。DMV SR 1 Report (CVC §16000) 若损失超过 \$1000、或有伤亡🏢 DMV 10 天内
 > 
 > 即便损失很小（哪怕只是刮掉一点漆），你仍然需要 留下纸条 + 向警方报告；
 > 
-> 但 不一定要报 DMV，除非超过 $1000 或有伤亡
+> 但 不一定要报 DMV，除非超过 \$1000 或有伤亡
 
-**21. Regulatory signs are: White**
+**21. Regulatory (监管) signs are: White**
 
 > Regulatory signs inform drivers of specific laws that must be obeyed. Displayed laws may be about traffic direction, lane use, turning, speed, parking, or special situations. Regulatory signs are commonly white squares or rectangles with black, red, or green letters or symbols. 交通标志告知驾驶员必须遵守的具体交通法规。这些法规可能涉及交通方向、车道使用、转弯、速度、停车或特殊情况。交通标志通常是白色正方形或长方形，上面印有黑色、红色或绿色的字母或符号。
 
 **22. Your license can be suspended if you are under 21 and drive with a blood alcohol level of**
 - 0.15 percent or more.
 - <span style="color:#e11d48">✖ 0.08 percent or more.</span>
-- <span style="color:#16a34a">✅ Any amount.</span>
+- <span style="color:#16a34a">✅ Any amount.</span> 【dmv 手册写的是 0.01 = 只要测出酒精，就足以构成 违法（illegal）】
 
 > There is zero tolerance for alcohol use by drivers under age 21. If you are under 21, the detection of any trace of alcohol in your system will result in stiff penalties, including the suspension of your license for two years. 对于21岁以下的驾驶员饮酒，政府采取零容忍态度。如果您未满21岁，一旦检测出您体内有任何酒精成分，都将受到严厉处罚，包括吊销驾照两年。
 
@@ -1168,7 +1176,7 @@
 **8. If you are convicted of driving with an excessive blood alcohol concentration (BAC), you may be sentenced to serve**
 - <span style="color:#16a34a">✅ Up to six months in jail.</span>
 - <span style="color:#e11d48">✖ Up to 12 months in jail.</span>
-- No jail time, but you must pay a fine of $500.
+- No jail time, but you must pay a fine of \$500.
 
 > If you are convicted of DUI for the first time and you have an excessive BAC level, you may be sentenced to serve up to six months in jail and may be required to pay a fine between $390 and $1,000. Your vehicle may be impounded and is subject to storage fees. 如果您是初犯，且血液酒精浓度超标，您可能被判处最高六个月的监禁，并可能被处以 390 美元至 1000 美元的罚款。您的车辆可能会被扣押，并需支付保管费。
 
