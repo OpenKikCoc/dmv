@@ -1,3 +1,6 @@
 * [Intro](intro.md)
 * [dmv-written-test](dmv-written-test/README.md)
+  * [signs-permit-test](dmv-written-test/signs-permit-test.md)
+  * [hardest-permit-test](dmv-written-test/hardest-permit-test.md)
+* [meiguoxueche](meiguoxueche/README.md)
 * [gpt-summary](gpt-summary/README.md)
