@@ -1,6 +1,10 @@
 # Permit Test
 
+https://www.dmv.ca.gov/portal/
+
 ## Links
+
+https://www.dmv.ca.gov/portal/driver-education-and-safety/educational-materials/sample-driver-license-dl-knowledge-tests/
 
 https://www.dmv-written-test.com/california
 
@@ -20,4 +24,4 @@ https://driving-tests.org/
 
 ## Tips
 
-9:30am - 10:00am 车少
+路考 9:30am - 10:00am 车少
