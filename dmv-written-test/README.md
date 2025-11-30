@@ -505,7 +505,7 @@
 >
 > Steep hill ahead. 前方是陡坡。 diamond-shaped 菱形 a diamond-shaped sign that indicates a hazardous load标有菱形危险品标志的车辆
 
-**17. Which child would require a child passenger restraint system?【儿童座椅 标准 8岁+4.9以内】**
+**17. Which child would require a child passenger restraint system?【儿童座椅 标准 8岁+4.9inches以内】**
 - A 9-year-old who is 4 feet 10 inches tall
 - A 10-year-old who is 5 feet 3 inches tall
 - <span style="color:#16a34a">✅ A 7-year-old who is 4 feet 8 inches tall</span>
@@ -606,8 +606,8 @@
 
 **14. What is the benefit of a space cushion around your vehicle?**
 - Other drivers can cut in front of you, improving the flow of traffic.
-- If another driver makes a mistake, you have time to react.
-- <span style="color:#16a34a">✅ It inflates to protect you from injury in the case of a collision.</span>
+- <span style="color:#16a34a">✅ If another driver makes a mistake, you have time to react.</span>
+- <span style="color:#e11d48">✖ It inflates to protect you from injury in the case of a collision.</span>
 
 > Keeping space around your vehicle is important to ensure that you have time to safely react if another driver makes a mistake. For example, extra space around your vehicle may give you time to brake or maneuver out of the way of a vehicle veering into your lane. 保持与车辆周围的安全距离非常重要，这样才能确保您有时间在其他驾驶员犯错时安全应对。例如，额外的安全距离可以让您有时间刹车或避让突然变道的车辆。
 
@@ -895,7 +895,7 @@
 **6. You are driving in the far right lane of a four-lane freeway and notice 【thick broken white lines】 on the left side of your lane. You are driving in: An exit lane.**
 
 **25. If your car's suspension【暂停？=&gt; 悬挂系统】 is bad, it can cause**
-- Vehicle control problems.
+- <span style="color:#16a34a">✅ Vehicle control problems.车辆操控问题。</span>
 - Squealing brakes.
 - Slack in the steering.
 
@@ -1172,6 +1172,9 @@
 
 > [!NOTE]
 >
+> When making a left turn, you must yield to pedestrians, bicyclists, or other vehicles moving on their green light. 左转时，必须礼让行人、骑自行车的人或其他绿灯通行的车辆。【记忆】
+> 
+> Excessive speed【英文 超速】
 
 **8. If you are convicted of driving with an excessive blood alcohol concentration (BAC), you may be sentenced to serve**
 - <span style="color:#16a34a">✅ Up to six months in jail.</span>

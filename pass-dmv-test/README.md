@@ -1,6 +1,6 @@
 # DMV Practice Notes (Formatted)
 
-## [Practice Test 1](https://www.dmv-written-test.com/california/practice-test-1.html?page=1)
+## [Pass DMV Test](https://pass-dmv-test.com/)
 
 > [!NOTE]
 > 
@@ -12,7 +12,7 @@
 - [ ] 是的，在轉彎的整個過程中都應該減速。 ❌
 - [ ] 不是的，如果是高檔車就不需要這樣做。
 
-**第 26/305 题: 在下列何種情況下，你應該與前面的 車輛保持更大的距離：**
+**第 26/305 题: 在下列何種情況下，你應該與前面的 車輛保持更大的距離 【题目有个图片，后视镜有车跟随】：**
 
 - [ ] 前面的車是小型機動車。
 - [x] 後面有一輛車緊跟著你。 👍
