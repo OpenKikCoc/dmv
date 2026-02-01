@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: Arial, sans-serif; font-size: 10px; line-height: 1.1; }
+        table { width: 100%; border-collapse: collapse; border: 2px solid black; }
+        td { border: 1px solid black; padding: 2px; vertical-align: top; }
+        .header { background-color: #e0e0e0; font-weight: bold; text-align: center; }
+        .gray-bg { background-color: #e0e0e0; }
+        .title-section { text-align: center; padding: 5px; }
+        .vertical-text { writing-mode: vertical-rl; transform: rotate(180deg); font-weight: bold; font-size: 18px; text-align: center; }
+        .checklist-item { display: flex; justify-content: space-between; margin-bottom: 1px; }
+        .checkbox { width: 10px; height: 10px; border: 1px solid black; display: inline-block; }
+        .number-row span { margin-right: 5px; font-weight: bold; }
+        h2, h3 { margin: 2px 0; font-size: 11px; text-transform: uppercase; }
+        .score-box { border: 2px solid black; padding: 5px; margin-top: 5px; }
+    </style>
+</head>
+<body>
+
+<table>
+    <tr>
+        <td colspan="4" style="border-bottom: none;">
+            <table style="width: 100%; border: none;">
+                <tr>
+                    <td style="width: 30%; border: none;">
+                        DATE<br><div style="border-bottom: 1px solid black; height: 15px;"></div>
+                        DL NUMBER<br><div style="border-bottom: 1px solid black; height: 15px;"></div>
+                        <table style="width: 100%; border: none;">
+                            <tr>
+                                <td style="border: none;">ROUTE<br><strong>1 &nbsp;&nbsp; 2 &nbsp;&nbsp; Alt.</strong></td>
+                                <td style="border: none;">OFFICE I.D. NUMBER<br><div style="border-bottom: 1px solid black; height: 10px;"></div></td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td style="width: 40%; border: none; text-align: center;">
+                        <img src="#" alt="DMV LOGO" style="height: 30px;"><br>
+                        <strong>DRIVING PERFORMANCE EVALUATION SCORE SHEET</strong><br>
+                        <small>To pass, you must have no more than 3 errors marked for items 9-14 under PRE-DRIVE CHECKLIST,<br>
+                        no marks in the CRITICAL DRIVING ERROR section, and no more than 15 errors marked for the Scoring Maneuvers.</small>
+                    </td>
+                    <td style="width: 30%; border: 2px solid black; background-color: #f0f0f0;">
+                        <strong>EVALUATION RESULT</strong><br><br>
+                        Number of errors: ________<br><br>
+                        □ Passing<br>
+                        □ Unsatisfactory
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td rowspan="10" class="vertical-text" style="width: 40px; border-left: 2px solid black;">
+            Sample Driving Performance Evaluation Score Sheet
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4">
+            EXAMINER'S SIGNATURE: X __________________________________ APPLICANT'S SIGNATURE: X __________________________________
+        </td>
+    </tr>
+    
+    <tr>
+        <td width="20%" class="gray-bg">
+            <h3>PRE-DRIVE CHECKLIST</h3>
+            1. Driver window <span style="float:right;">□</span><br>
+            2. Windshield <span style="float:right;">□</span><br>
+            3. Rear view mirrors <span style="float:right;">□</span><br>
+            4. Turn signals F/B <span style="float:right;">□</span><br>
+            5. Brake lights <span style="float:right;">□</span><br>
+            6. Tires <span style="float:right;">□</span><br>
+            7. Foot Brake <span style="float:right;">□</span><br>
+            8. Horn <span style="float:right;">□</span><br>
+            <strong>9. Emergency/parking brake</strong> <span style="float:right;">□</span><br>
+            <strong>10. Arm signals</strong> <span style="float:right;">□</span><br>
+            <strong>11. Windshield wipers</strong> <span style="float:right;">□</span><br>
+            <strong>12. Defroster</strong> <span style="float:right;">□</span><br>
+            <strong>13. Emergency Flasher</strong> <span style="float:right;">□</span><br>
+            <strong>14. Headlights</strong> <span style="float:right;">□</span><br>
+            15. Passenger door <span style="float:right;">□</span><br>
+            16. Glove box <span style="float:right;">□</span><br>
+            17. Seat belts <span style="float:right;">□</span><br>
+            <hr>
+            <h3>CRITICAL DRIVING ERROR</h3>
+            Intervention by examiner <span style="float:right;">0</span><br>
+            Strikes object/curb <span style="float:right;">0</span><br>
+            Disobeys traffic sign or signal <span style="float:right;">0</span><br>
+            Disobeys safety personnel or safety vehicles <span style="float:right;">0</span><br>
+            Dangerous maneuver <span style="float:right;">0</span><br>
+            Speed <span style="float:right;">0</span><br>
+            Auxiliary equipment use <span style="float:right;">0</span><br>
+            Lane violation <span style="float:right;">0</span>
+        </td>
+
+        <td width="20%">
+            <h3>PARKING LOT DRIVING</h3>
+            <div class="number-row" style="text-align: right;"><strong>1 &nbsp; 2</strong></div>
+            Traffic check <span style="float:right;">0 &nbsp; 0</span><br>
+            Speed <span style="float:right;">0 &nbsp; 0</span><br>
+            <hr>
+            <h3>FWY OR HWY</h3>
+            <strong>Entering</strong> <span style="float:right;">1</span><br>
+            Traffic check <span style="float:right;">0</span><br>
+            Signal <span style="float:right;">0</span><br>
+            Speed <span style="float:right;">0</span><br>
+            Spacing <span style="float:right;">0</span><br>
+            Lane position <span style="float:right;">0</span><br>
+            <br>
+            <strong>Merge</strong> <span style="float:right;">0</span><br>
+            Traffic check <span style="float:right;">0</span><br>
+            Signal <span style="float:right;">0</span><br>
+            Speed <span style="float:right;">0</span><br>
+            Spacing <span style="float:right;">0</span><br>
+            Lane position <span style="float:right;">0</span><br>
+            Steering control <span style="float:right;">0</span><br>
+            <br>
+            <strong>Lane Use</strong><br>
+            Traffic check <span style="float:right;">0</span><br>
+            Speed <span style="float:right;">0</span><br>
+            Spacing <span style="float:right;">0</span><br>
+            Lane Position <span style="float:right;">0</span><br>
+            <br>
+            <strong>Exiting</strong><br>
+            Traffic check <span style="float:right;">0</span><br>
+            Signal <span style="float:right;">0</span><br>
+            Speed <span style="float:right;">0</span><br>
+            Spacing <span style="float:right;">0</span><br>
+            Lane position <span style="float:right;">0</span><br>
+            Steering control <span style="float:right;">0</span>
+        </td>
+
+        <td width="30%">
+            <h3>INTERSECTIONS</h3>
+            <strong>Through</strong> <span style="float:right;">1 2 3 4 5 6 7 8</span><br>
+            Traffic check <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            Speed <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            Yield <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            Unnecessary stop <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            <br>
+            <strong>Stop</strong> <span style="float:right;">1 2 3 4 5 6 7 8</span><br>
+            Traffic check <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            Deceleration/Braking <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            Full Stop <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            Gap or Limit line <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            <br>
+            <strong>Start</strong> <span style="float:right;">1 2 3 4 5 6 7 8</span><br>
+            Traffic check <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            Yield <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            Speed <span style="float:right;">0 0 0 0 0 0 0 0</span><br>
+            <hr>
+            <strong>BUSINESS/URBAN AND RESIDENTIAL/RURAL</strong><br>
+            <div style="text-align: right;"><strong>B &nbsp; R</strong></div>
+            Traffic check <span style="float:right;">0 &nbsp; 0</span><br>
+            Speed <span style="float:right;">0 &nbsp; 0</span><br>
+            Spacing <span style="float:right;">0 &nbsp; 0</span><br>
+            Lane position <span style="float:right;">0 &nbsp; 0</span><br>
+            <hr>
+            <strong>LANE CHANGE</strong><br>
+            <div style="text-align: right;"><strong>L &nbsp; R</strong></div>
+            Traffic check <span style="float:right;">0 &nbsp; 0</span><br>
+            Signal <span style="float:right;">0 &nbsp; 0</span><br>
+            Speed <span style="float:right;">0 &nbsp; 0</span><br>
+            Spacing <span style="float:right;">0 &nbsp; 0</span><br>
+            Steering Control <span style="float:right;">0 &nbsp; 0</span><br>
+            <hr>
+            <strong>BACKING</strong><br>
+            <div style="text-align: right;"><strong>E &nbsp; B &nbsp; X</strong></div>
+            Traffic check <span style="float:right;">0 &nbsp; 0 &nbsp; 0</span><br>
+            Signal <span style="float:right;">0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0</span><br>
+            Speed <span style="float:right;">0 &nbsp; 0 &nbsp; 0</span><br>
+            Parallel <span style="float:right;">&nbsp;&nbsp; 0 &nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+            Control <span style="float:right;">&nbsp;&nbsp; 0 &nbsp;&nbsp;&nbsp;&nbsp;</span>
+        </td>
+
+        <td width="30%">
+            <h3>TURNS</h3>
+            <div style="display:flex; justify-content:space-around; font-weight:bold; border-bottom:1px solid black;">
+                <span>LEFT</span><span>RIGHT</span>
+            </div>
+            <strong>Approach</strong> <span style="float:right;">1 2 3 4 | 1 2 3 4</span><br>
+            Traffic check <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Signal <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Deceleration/Braking <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Yield <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Lane use <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Unnecessary stop <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            <br>
+            <strong>Stop</strong> <span style="float:right;">1 2 3 4 | 1 2 3 4</span><br>
+            Traffic check <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Full stop <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Gap or Limit line <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Wheels straight <span style="float:right;">0 0 0 0</span><br>
+            <br>
+            <strong>Turn/Complete</strong> <span style="float:right;">1 2 3 4 | 1 2 3 4</span><br>
+            Traffic check <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Yield <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Steering Control <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Too wide/short <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Correct lane <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Speed <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            Signal <span style="float:right;">0 0 0 0 | 0 0 0 0</span><br>
+            <hr>
+            <strong>COMMENTS</strong>
+            <div style="height: 100px;"></div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #f9f9f9;">
+            <div style="column-count: 2;">
+                <strong>DRIVING IMPROVEMENT CHECKLIST</strong><br>
+                <strong>STOPS</strong><br>
+                □ Make full stops behind limit lines<br>
+                □ Do not make unnecessary stops<br>
+                □ Make smooth safe stops<br>
+                □ Stop with adequate space for vehicles in front of you<br>
+                <strong>LANE USE</strong><br>
+                □ Begin and end turns in correct lane<br>
+                □ Do not cut turns too short<br>
+                □ Do not make turns too wide<br>
+                □ Keep in center of lane<br>
+                □ Enter bicycle lane before right turn<br>
+                □ Use two-way left turn lane appropriately<br>
+                □ Do not drive too far to the right<br>
+                □ For right turns, use right most part of lane<br>
+                <strong>LANE CHANGE</strong><br>
+                □ Use proper turn signal prior to lane changes<br>
+                □ Cancel turn signal after lane change<br>
+                □ Look over appropriate shoulder prior to lane changes<br>
+                □ Make lane changes at appropriate speed<br>
+                □ Create space cushion after completion of lane change<br>
+                <strong>SPEED</strong><br>
+                □ Drive at posted speed limit<br>
+                □ Do not drive too slow for situations<br>
+                □ Do not drive too fast for situations<br>
+                <strong>TRAFFIC CHECK</strong><br>
+                □ Look both ways and ahead when approaching intersections<br>
+                <strong>VEHICLE CONTROL</strong><br>
+                □ Steer smoothly<br>
+                □ Use turn signals when pulling from curb or merging<br>
+                □ Keep an adequate space cushion between vehicles<br>
+                □ Apply brakes smoothly<br>
+                □ Do not under-steer<br>
+                □ Do not over-steer<br>
+                <strong>YIELDING</strong><br>
+                □ Accept right-of-way without causing confusion<br>
+                □ Yield to oncoming traffic when appropriate
+            </div>
+        </td>
+    </tr>
+</table>
+<div style="font-size: 8px;">DL 32 (REV. 6/2012)</div>
+
+</body>
+</html>
