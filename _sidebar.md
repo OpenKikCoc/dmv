@@ -2,6 +2,8 @@
 * [dmv](dmv/README.md)
   * [permit-test](dmv/permit-test/README.md)
   * [road-test](dmv/road-test/README.md)
+    * [process](dmv/road-test/process.md)
+    * [path](dmv/road-test/path.md)
     * [plan](dmv/road-test/plan.md)
     * [words](dmv/road-test/words.md)
     * [misc](dmv/road-test/misc.md)
