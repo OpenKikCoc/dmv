@@ -12,22 +12,96 @@
 >
 > **使用方法**: 建议按顺序执行 Phase 0 至 Phase 4。每节课以 1h 或 2h 为单位，完成一项在方框内打勾。
 
+[Liam_湾区教练](https://xhslink.com/m/7FykTym8kzY)
+
+1. [如何看懂加州DMV路考评分表](http://xhslink.com/o/GFx22WLPay)
+2. [路考成绩单核心考点](http://xhslink.com/o/1IF9xQyMBzQ)
+3. TODO
+
 ---
 
 ## 🟢 第一部分: 考试规则与及格红线 (The Rules)
 
 在开始练车前，必须明确“及格线”。根据 `Driving Performance Evaluation Score Sheet (DL32)`，触犯以下任何一条即导致 **FAIL**: 
 
-### 1. 三大“挂科”条件 (Hard Limits)
 1.  **Pre-Drive Checklist (Items 9-14)**: 错误超过 **3** 个（或无法演示这 6 项中的 4 项）。
     *   *San Jose 考官通常在检查完车辆后，上车前会让你演示手势和灯光。*
 2.  **Critical Driving Error (致命错误)**: 出现 **1** 个即挂科。
     *   考官介入 (Intervention): 考官说话提示、抓方向盘或踩刹车。
-    *   撞击物体 (Strikes object/curb): 倒车或转弯上路沿。
-    *   违反信号 (Disobeys sign/signal): 闯红灯、Stop Sign 未全停。
-    *   危险操作 (Dangerous maneuver): 如阻碍交通、盲区不看直接变道。
-    *   速度 (Speed): 无理由过慢或超速 (±10mph)。
+    *   撞击物体 (Strikes object/curb): 倒车或转弯上【**路沿**】。
+    *   违反信号 (Disobeys sign/signal): 闯红灯、Stop Sign 未全停。(直行道左转/左转道直行/NoTurnOnRed/绿灯不能停/红灯不能不停)
+    *   违反个人安全或行车安全 (Disobeys safety personnel or safety vehicles): 急刹车/加速过猛
+    *   危险操作 (Dangerous maneuver): 如阻碍交通、盲区不看直接变道。【盲点】
+    *   速度 (Speed): 无理由过慢或超速 (±10mph)，在 ±5mph 及格。【换道不能减速】
+    *   道路侵犯 (Lane violation): 比如两个左转道，不能越过中间线。【换道shoulder check】
 3.  **Scoring Maneuvers (计分项)**: 普通扣分项累计超过 **15** 个。
+    *   **Parking Lot Driving**: Traffic check (进出车位左右观察), Speed (低速安全)。
+    *   **Intersections (路口交互)**:
+        *   Through (直行): Traffic check (左右扫视), Speed (平稳), Yield (让行), Unnecessary stop (无故停车)。
+        *   Stop (停车): Traffic check (观察), Deceleration (平顺刹车), **Full Stop (全停)**, Gap/Limit line (白线/车距)。
+        *   Start (起步): Traffic check (观察), Yield (让行), Speed (起步速度合适)。
+    *   **Business/Urban & Residential (市/区行驶)**: Traffic check (持续观察), Speed (居民区严格25mph/不龟速), Spacing (车距), Lane position (居中不压线)。
+    *   **Lane Change (变道)**: Traffic check (镜子+**盲区Head Check**), Signal (提前3秒), Speed (**保持或微加速/严禁减速**), Spacing (安全车距), Steering Control (稳)。
+    *   **Backing (倒车)**: Traffic check (**全程回头看后窗**), Signal, Speed, Parallel, Control (直线/**不碰路沿Curb**)。
+    *   **Turns (转弯)**:
+        *   Approach (入弯): Traffic check, Signal (提前), Deceleration, Yield, Lane use (右转进Bike Lane), Unnecessary stop。
+        *   Stop (停车): Traffic check, Full stop, Gap/Limit line, **Wheels straight (左转等待回正轮)**。
+        *   Turn/Complete (完成): Traffic check, Yield, Steering (不乱搓), Too wide/short (不切角/不拐大), Correct lane (入正确车道), Speed。
+
+**特别强调 (Key Failures)**:
+*   【**先挂挡再松手刹 & 自行车道 & 绿灯右转减速过程**】
+*   **Curb**: 碰路沿 = 立即挂科 (Critical Error)。
+*   **Head Check**: 变道/转弯/倒车起步不看盲区 = 扣分 (多次可致挂科)。
+*   **Speed**: 换道时减速 = 扣分/危险操作；居民区超速 = 挂科。
+*   【**绿灯左转等待回正轮**】: 进入路口 1/3 处等待；不转方向盘避免被碰撞时驶入对向车流
+*   【**实现受阻道路，需要多次 STOP**】: 看到车要立即停
+*   【**回DMV停车**】: 也要打灯、看镜、盲区、转向进
+
+4. 驾驶改进检查表 (Driving Improvement Checklist)
+> *如果路考 Fail，考官会在背面勾选以下具体改进项。平时练习请对照自查。*
+
+STOPS (停车)
+- [ ] Make full stops behind limit lines (在白线后完全停车)
+- [ ] Do not make unnecessary stops (不做无必要的停车)
+- [ ] Make smooth safe stops (平顺停车)
+- [ ] Stop with adequate space for vehicles in front of you (与前车保持足够车距)
+
+LANE USE (车道使用)
+- [ ] Begin and end turns in correct lane (在正确车道开始和结束转弯)
+- [ ] Do not cut turns too short (不要切角太小/压线)
+- [ ] Do not make turns too wide (不要转弯太大/甩尾)
+- [ ] Keep in center of lane (保持车道居中)
+- [ ] Enter bicycle lane before right turn (右转前进入自行车道)
+- [ ] Use two-way left turn lane appropriately (正确使用双向左转道)
+- [ ] Do not drive too far to the right (不要太靠右行驶)
+- [ ] For right turns, use right most part of lane (右转贴近车道右侧)
+
+LANE CHANGE (变道)
+- [ ] Use proper turn signal prior to lane changes (变道前正确打灯)
+- [ ] Cancel turn signal after lane change (变道后及时关灯)
+- [ ] Look over appropriate shoulder prior to lane changes (变道前回头看盲区)
+- [ ] Make lane changes at appropriate speed (变道速度得当)
+- [ ] Create space cushion after completion of lane change (变道后留出安全缓冲空间)
+
+SPEED (速度)
+- [ ] Drive at posted speed limit (按限速行驶)
+- [ ] Do not drive too slow for situations (不要无故龟速)
+- [ ] Do not drive too fast for situations (不要超速)
+
+TRAFFIC CHECK (交通观察)
+- [ ] Look both ways and ahead when approaching intersections (过路口时左右及前方观察)
+
+VEHICLE CONTROL (控车)
+- [ ] Steer smoothly (转向平稳)
+- [ ] Use turn signals when pulling from curb or merging (路边起步或汇入时打灯)
+- [ ] Keep an adequate space cushion between vehicles (保持安全车距)
+- [ ] Apply brakes smoothly (刹车平稳)
+- [ ] Do not under-steer (不要转向不足)
+- [ ] Do not over-steer (不要转向过度)
+
+YIELDING (让行)
+- [ ] Accept right-of-way without causing confusion (果断使用路权，不造成困惑)
+- [ ] Yield to oncoming traffic when appropriate (适时让行对向来车)
 
 ---
 
@@ -126,8 +200,9 @@
     *   无人行道/白线: 停在路口切角线之前，不可探入横向车道。
 *   [ ] **视线受阻 (Blind Intersection)**:
     1.  先在停止线 Full Stop (数 3 秒)。
-    2.  慢慢向前探头 (Creep forward) 约半个车身。
-    3.  再次左右观察，确认安全后通过。
+    2.  慢慢向前探头 (Creep forward)，**脚备在刹车上**。
+    3.  **如有来车，必须立即停车让行 (Yield)**。
+    4.  等车过后继续探头，直到视线完整，**再次 Full Stop (Double Stop)** 确认安全后通过。
 *   [ ] **扫描 (Scanning)**:
     *   过路口时，头部必须有明显的 **Left-Right-Left** 摆动动作（幅度大到考官能看见）。
 

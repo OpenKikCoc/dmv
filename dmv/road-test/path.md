@@ -54,7 +54,7 @@
         <tr>
             <td><strong><a href="https://www.youtube.com/@dmv1688">杰森</a></strong></td>
             <td><iframe width="100%" height="113" src="https://www.youtube.com/embed/7Kq7KnUFtXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-            <td>找不到 => <iframe width="100%" height="113" src="https://www.youtube.com/embed/teX9ROC5iNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> =【待补全】</td>
+            <td><iframe width="100%" height="113" src="https://www.youtube.com/embed/teX9ROC5iNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
             <td><iframe width="100%" height="113" src="https://www.youtube.com/embed/llcx_t9R_aY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
             <td><iframe width="100%" height="113" src="https://www.youtube.com/embed/MCxwH5usQZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
         </tr>
@@ -78,6 +78,8 @@
 # Path 1
 
 ![2025年7月圣何塞San%20Jose%20DMV路考线路+总结_2_🌸Jessie🌸_来自小红书网页版](./imgs/2025年7月圣何塞San%20Jose%20DMV路考线路+总结_2_🌸Jessie🌸_来自小红书网页版.jpg)
+
+![path1](./imgs/加州路考🪪｜san%20Jose最全攻略｜线路和流程_2_沈沈不咸_来自小红书网页版.jpg)
 
 # Path 2
 
