@@ -4,6 +4,10 @@
 
 turn on the car, but don't start the engine
 
+turn your key on (no engine)
+
+drive window (打开车窗)
+
 | 英文指令 | 中文含义 | 操作 / 备注 |
 | :--- | :--- | :--- |
 | (Start Engine) | 点火 | **Turn off** -> **Turn on** (转两下) -> **点着火** |
@@ -38,3 +42,8 @@ turn on the car, but don't start the engine
 | Back up | 倒车 | |
 | Speed up / Slow down | 加速/减速 | |
 
+# TODO
+
+详细的指令
+
+front coner turn left 之类的

@@ -16,7 +16,7 @@
 
 1. [如何看懂加州DMV路考评分表](http://xhslink.com/o/GFx22WLPay)
 2. [路考成绩单核心考点](http://xhslink.com/o/1IF9xQyMBzQ)
-3. TODO
+3. [加州路考到底怎么扣分？DMV评分表一篇看懂](http://xhslink.com/o/4XdLRJEYNTp)
 
 ---
 
