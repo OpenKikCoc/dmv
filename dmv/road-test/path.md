@@ -105,3 +105,36 @@
 1. 路線1: https://reurl.cc/6vQ9jk
 2. 路線2: https://reurl.cc/ezdnGR
 3. 路線3: https://reurl.cc/QRZm50
+
+# TODO 电子信息
+
+限速: https://www.arcgis.com/apps/mapviewer/index.html
+
+https://gisdata-csj.opendata.arcgis.com/
+
+信号灯:
+
+- 红绿灯 / 行人闪灯 / 路口信号: https://gisdata-csj.opendata.arcgis.com/datasets/CSJ::city-owned-traffic-signals/explore?location=37.332044%2C-121.880204%2C12
+
+- STOP: https://data.sanjoseca.gov/dataset/street-intersections
+
+- 单行/双行: https://data.sanjoseca.gov/dataset/streets
+
+- 自行车道: https://data.sanjoseca.gov/dataset/bikeways
+
+```
+Public Street（线图层）：含 SPEEDLIMIT（限速）和 ONEWAYDIR（单行方向：P/N/B）字段
+https://geo.sanjoseca.gov/server/rest/services/OPN/OPN_OpenDataService/MapServer/277
+
+City Owned Traffic Signals（点图层）
+https://geo.sanjoseca.gov/server/rest/services/OPN/OPN_OpenDataService/MapServer/506
+
+Street Intersections（点图层）（官方说明里明确：包含大量 stop-signed intersections）
+https://geo.sanjoseca.gov/server/rest/services/OPN/OPN_OpenDataService/MapServer/276
+
+Bikeways（线图层）
+https://geo.sanjoseca.gov/server/rest/services/OPN/OPN_OpenDataService/MapServer/418
+
+前述链接综合
+https://arcg.is/T8qj5
+```
