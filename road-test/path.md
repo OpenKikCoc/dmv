@@ -25,10 +25,10 @@
     <tbody>
         <tr>
             <td><strong>路线</strong></td>
-            <td><img src="./dmv/road-test/imgs/2025年7月圣何塞San%20Jose%20DMV路考线路+总结_2_🌸Jessie🌸_来自小红书网页版.jpg" width="100%"></td>
-            <td><img src="./dmv/road-test/imgs/2025年7月圣何塞San%20Jose%20DMV路考线路+总结_4_🌸Jessie🌸_来自小红书网页版.jpg" width="100%"></td>
-            <td><img src="./dmv/road-test/imgs/2025年7月圣何塞San%20Jose%20DMV路考线路+总结_5_🌸Jessie🌸_来自小红书网页版.jpg" width="100%"></td>
-            <td><img src="./dmv/road-test/imgs/2025年7月圣何塞San%20Jose%20DMV路考线路+总结_6_🌸Jessie🌸_来自小红书网页版.jpg" width="100%"></td>
+            <td><img src="./road-test/imgs/2025年7月圣何塞San%20Jose%20DMV路考线路+总结_2_🌸Jessie🌸_来自小红书网页版.jpg" width="100%"></td>
+            <td><img src="./road-test/imgs/2025年7月圣何塞San%20Jose%20DMV路考线路+总结_4_🌸Jessie🌸_来自小红书网页版.jpg" width="100%"></td>
+            <td><img src="./road-test/imgs/2025年7月圣何塞San%20Jose%20DMV路考线路+总结_5_🌸Jessie🌸_来自小红书网页版.jpg" width="100%"></td>
+            <td><img src="./road-test/imgs/2025年7月圣何塞San%20Jose%20DMV路考线路+总结_6_🌸Jessie🌸_来自小红书网页版.jpg" width="100%"></td>
         </tr>
         <tr>
             <td><strong><a href="https://www.youtube.com/@100cab">100.cap</a></strong></td>

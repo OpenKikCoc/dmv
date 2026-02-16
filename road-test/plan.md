@@ -3,7 +3,7 @@
 ## 📄 附录: 评分表样式预览 (Score Sheet Preview)
 
 <div style="width: 100%; height: 800px; overflow: hidden; border: 1px solid #eee;">
-    <iframe src="dmv/road-test/DrivingPerformanceEvaluationScoreSheet.html" width="100%" height="100%" frameborder="0"></iframe>
+    <iframe src="road-test/DrivingPerformanceEvaluationScoreSheet.html" width="100%" height="100%" frameborder="0"></iframe>
 </div>
 
 ---
